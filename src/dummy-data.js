@@ -54,6 +54,21 @@ const dummyData = [
             },
         ],
     },
+    {
+        id: 3,
+        username: "ollie",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: 'https://www.ardeaprints.com/p/172/la-6901-dog-apricot-poodle-puppy-studio-5260022.jpg',
+        likes: 99999,
+        timestap: "March 22 2022, 03:58:49 pm",
+        comments: [
+            {
+                id: 24,
+                username: "nathan",
+                text: "hey guy",
+            },
+        ],
+    },
 ];
 
 export default dummyData;
